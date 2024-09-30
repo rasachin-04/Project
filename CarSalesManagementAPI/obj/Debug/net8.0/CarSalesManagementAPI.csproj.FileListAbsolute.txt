@@ -1,0 +1,74 @@
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.csproj.AssemblyReference.cache
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.AssemblyInfoInputs.cache
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.AssemblyInfo.cs
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.csproj.CoreCompileInputs.cache
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\appsettings.json
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.exe
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.deps.json
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.runtimeconfig.json
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.pdb
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.CarSalesManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CarSalesManagementAPI.props
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CarSalesManagementAPI.props
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CarSalesManagementAPI.props
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\scopedcss\bundle\CarSalesManagementAPI.styles.css
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSales.BE59DB63.Up2Date
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\refint\CarSalesManagementAPI.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.pdb
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.genruntimeconfig.cache
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\obj\Debug\net8.0\ref\CarSalesManagementAPI.dll
+C:\Visual Studio Programs\2024\Sep_2024\Sachin Rathod TAsk\CarSalesManagementAPI\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.staticwebassets.runtime.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\appsettings.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.staticwebassets.runtime.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.exe
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.deps.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.runtimeconfig.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\CarSalesManagementAPI.pdb
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.csproj.AssemblyReference.cache
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.AssemblyInfoInputs.cache
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.AssemblyInfo.cs
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.csproj.CoreCompileInputs.cache
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.CarSalesManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CarSalesManagementAPI.props
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CarSalesManagementAPI.props
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CarSalesManagementAPI.props
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\scopedcss\bundle\CarSalesManagementAPI.styles.css
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSales.BE59DB63.Up2Date
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\refint\CarSalesManagementAPI.dll
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.pdb
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\CarSalesManagementAPI.genruntimeconfig.cache
+E:\CarSalesManagementAPI - Copy\CarSalesManagementAPI\obj\Debug\net8.0\ref\CarSalesManagementAPI.dll

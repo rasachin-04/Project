@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Sachin\\SalesCommissionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\controllers\\commissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:controllers\\commissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\models\\carsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:models\\carsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\models\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:models\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\repositories\\salesmanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:repositories\\salesmanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\services\\commissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:services\\commissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|e:\\sachin\\salescommissionapi\\salescommissionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7081E1C4-ECF7-410D-9E3B-A0B560EE3B30}|SalesCommissionAPI.csproj|solutionrelative:salescommissionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarSale.cs",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\Models\\CarSale.cs",
+              "RelativeDocumentMoniker": "Models\\CarSale.cs",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\Models\\CarSale.cs",
+              "RelativeToolTip": "Models\\CarSale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:15:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:22:22.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommissionController.cs",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\Controllers\\CommissionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommissionController.cs",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\Controllers\\CommissionController.cs",
+              "RelativeToolTip": "Controllers\\CommissionController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:18:27.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommissionService.cs",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\Services\\CommissionService.cs",
+              "RelativeDocumentMoniker": "Services\\CommissionService.cs",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\Services\\CommissionService.cs",
+              "RelativeToolTip": "Services\\CommissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:16:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T08:21:04.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesmanRepository.cs",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\Repositories\\SalesmanRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SalesmanRepository.cs",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\Repositories\\SalesmanRepository.cs",
+              "RelativeToolTip": "Repositories\\SalesmanRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:33:14.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Salesman.cs",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\Models\\Salesman.cs",
+              "RelativeDocumentMoniker": "Models\\Salesman.cs",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\Models\\Salesman.cs",
+              "RelativeToolTip": "Models\\Salesman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:14:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesCommissionAPI.csproj",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\SalesCommissionAPI.csproj",
+              "RelativeDocumentMoniker": "SalesCommissionAPI.csproj",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\SalesCommissionAPI.csproj",
+              "RelativeToolTip": "SalesCommissionAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T17:21:46.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Sachin\\SalesCommissionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Sachin\\SalesCommissionAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:19:18.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

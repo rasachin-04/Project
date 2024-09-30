@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "LQoKmZq2iAEDl4YqxNP/SZmP1raNKOXDFJiblq7jp4U=",
+  "Source": "CarSalesManagementAPI",
+  "BasePath": "_content/CarSalesManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CarSalesManagementAPI\\wwwroot",
+      "Source": "CarSalesManagementAPI",
+      "ContentRoot": "E:\\CarSalesManagementAPI - Copy\\CarSalesManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CarSalesManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
